@@ -1,0 +1,53 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "enname": "北京柯蓝科技有限公司",
+      "enpeople": "刘海海",
+      "ennpeople": "张三",
+      "joindate": "2019-05-26",
+      "ensite": "科技楼11层1"
+    },
+    {
+      "enname": "北京思特奇有限公司",
+      "enpeople": "刘海海",
+      "ennpeople": "张三",
+      "joindate": "2019-05-26",
+      "ensite": "科技楼11层1"
+    },
+    {
+      "enname": "北京思特奇有限公司",
+      "enpeople": "刘海海",
+      "ennpeople": "张三",
+      "joindate": "2019-05-26",
+      "ensite": "科技楼11层1"
+    },
+    {
+      "enname": "北京思特奇有限公司",
+      "enpeople": "刘海海",
+      "ennpeople": "张三",
+      "joindate": "2019-05-26",
+      "ensite": "科技楼11层1"
+    },
+    {
+      "enname": "成都银海软件科技有限公司",
+      "enpeople": "刘海海",
+      "ennpeople": "张三",
+      "joindate": "2019-05-26",
+      "ensite": "科技楼11层1"
+    },
+    {
+      "enname": "大连华宇科技有限公司",
+      "enpeople": "刘海海",
+      "ennpeople": "张三",
+      "joindate": "2019-05-26",
+      "ensite": "科技楼11层1"
+    }
+
+
+
+
+  ]
+}
